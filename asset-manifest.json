@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/WhatWIYT/static/js/main.3d109722.js",
+    "main.js": "/WhatWIYT/static/js/main.1ffab275.js",
     "index.html": "/WhatWIYT/index.html",
-    "main.3d109722.js.map": "/WhatWIYT/static/js/main.3d109722.js.map"
+    "main.1ffab275.js.map": "/WhatWIYT/static/js/main.1ffab275.js.map"
   },
   "entrypoints": [
-    "static/js/main.3d109722.js"
+    "static/js/main.1ffab275.js"
   ]
 }
