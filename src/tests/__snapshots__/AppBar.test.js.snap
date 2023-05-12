@@ -1,0 +1,109 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppBar was correctly 1`] = `
+<header
+  className="MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorInherit MuiAppBar-positionStatic css-18jnd83-MuiPaper-root-MuiAppBar-root"
+>
+  <div
+    className="MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-hyum1k-MuiToolbar-root"
+  >
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root MuiSvgIcon-fontSizeLarge css-n6nb84-MuiSvgIcon-root"
+      data-testid="RotateLeftIcon"
+      focusable="false"
+      onClick={[Function]}
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M7.11 8.53 5.7 7.11C4.8 8.27 4.24 9.61 4.07 11h2.02c.14-.87.49-1.72 1.02-2.47zM6.09 13H4.07c.17 1.39.72 2.73 1.62 3.89l1.41-1.42c-.52-.75-.87-1.59-1.01-2.47zm1.01 5.32c1.16.9 2.51 1.44 3.9 1.61V17.9c-.87-.15-1.71-.49-2.46-1.03L7.1 18.32zM13 4.07V1L8.45 5.55 13 10V6.09c2.84.48 5 2.94 5 5.91s-2.16 5.43-5 5.91v2.02c3.95-.49 7-3.85 7-7.93s-3.05-7.44-7-7.93z"
+      />
+    </svg>
+    <div
+      className="MuiTypography-root MuiTypography-h6 css-p7bec2-MuiTypography-root"
+    >
+      What is the weather in your town ?
+    </div>
+    <p
+      className="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+    >
+      Editing
+    </p>
+    <span
+      className="MuiSwitch-root MuiSwitch-sizeMedium css-julti5-MuiSwitch-root"
+    >
+      <span
+        className="MuiButtonBase-root MuiSwitch-switchBase MuiSwitch-colorWarning PrivateSwitchBase-root MuiSwitch-switchBase MuiSwitch-colorWarning css-ars20s-MuiButtonBase-root-MuiSwitch-switchBase"
+        onBlur={[Function]}
+        onContextMenu={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={null}
+      >
+        <input
+          className="PrivateSwitchBase-input MuiSwitch-input css-1m9pwf3"
+          onChange={[Function]}
+          required={false}
+          type="checkbox"
+        />
+        <span
+          className="MuiSwitch-thumb css-jsexje-MuiSwitch-thumb"
+        />
+      </span>
+      <span
+        className="MuiSwitch-track css-1yjjitx-MuiSwitch-track"
+      />
+    </span>
+    <div
+      className="css-1lvtgc9"
+      onChange={[Function]}
+    >
+      <div
+        className="MuiInputBase-root MuiInputBase-colorPrimary css-1vyydct-MuiInputBase-root"
+        onClick={[Function]}
+      >
+        <input
+          aria-label="search"
+          className="MuiInputBase-input css-yz9k0d-MuiInputBase-input"
+          onAnimationStart={[Function]}
+          onBlur={[Function]}
+          onChange={[Function]}
+          onFocus={[Function]}
+          placeholder="What\`s your town ?"
+          type="text"
+          value="London"
+        />
+      </div>
+    </div>
+    <button
+      className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-5vn56p-MuiButtonBase-root-MuiButton-root"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+       add 
+    </button>
+  </div>
+</header>
+`;

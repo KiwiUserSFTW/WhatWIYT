@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Maps was correctly 1`] = `
+<div
+  className="MuiBox-root css-1so78ta"
+>
+  <div
+    className="MuiGrid-root css-10dsau7-MuiGrid-root"
+  >
+     
+  </div>
+</div>
+`;
