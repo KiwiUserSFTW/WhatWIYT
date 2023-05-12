@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.d3028bda.js",
-    "index.html": "/index.html",
-    "main.d3028bda.js.map": "/static/js/main.d3028bda.js.map"
+    "main.js": "/WhatWIYT/static/js/main.d3028bda.js",
+    "index.html": "/WhatWIYT/index.html",
+    "main.d3028bda.js.map": "/WhatWIYT/static/js/main.d3028bda.js.map"
   },
   "entrypoints": [
     "static/js/main.d3028bda.js"
